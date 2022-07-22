@@ -1,6 +1,6 @@
 # Qlavier-Style Case for the Plaid Keyboard
 
-*An silicone burger-mounted stacked acrylic case for the [Plaid](https://github.com/hsgw/plaid) keyboard, reverse engineered from [Qlavier](https://qlavier.com)'s [image gallery](https://imgur.com/a/e2AHRcN).*
+*A silicone burger-mounted stacked acrylic case for the [Plaid](https://github.com/hsgw/plaid) keyboard, reverse engineered from [Qlavier](https://qlavier.com)'s [image gallery](https://imgur.com/a/e2AHRcN).*
 
 ![](./assets/nice-photo.jpg)
 
