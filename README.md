@@ -1,6 +1,6 @@
 # Keyboard Cases
 
-A collection of keyboard cases I've designed. For each keyboard case, I provide all files for assembly, as well as instructions for setting up the keyboard case. Most of my cases target 40% ortholinear keyboards. 
+A collection of keyboard cases I've designed. For each keyboard case, I provide all files for assembly, as well as instructions for setting up the case. Most of my cases target 40% ortholinear keyboards. 
 
 | Case                             | Mounting Style               | Target Keyboard                        | Photo                                            |
 | -------------------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------ |
