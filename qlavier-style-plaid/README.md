@@ -64,3 +64,4 @@ I think I'd make the following improvements, if I had to do this build again:
 
 - The clearance on the USB cutout from the left side (when the keyboard is viewed from the top) is a little too tight. I'd cut it out more to the left. 
 - The top layer is way too delicate. It's because I just carved out the interior of the top layer last minute, to give enough clearance for the keycaps. Ideally, I'd move the screw holes on all the layers closer to the outside edge, and (or) I'd give the keyboard more of a bezel. 
+- I should make cutouts for the ICSP pins, as well as the boot and reset buttons, so I don't have to unscrew the top layer each time I want to make low-level changes. 
