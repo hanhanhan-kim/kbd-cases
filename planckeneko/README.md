@@ -12,7 +12,7 @@ Aside from the CNC-machined (or 3D-printed) parts*, the following items are need
 
 | Item                                                         | Unit Price (USD) | Quantity | Source                                                       |
 | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ |
-| Soft silicone o-ring, 3/32 fractional width, 164 dash number | 10.18            | 1        | McMaster [1173N461](https://www.mcmaster.com/1173N461/)      |
+| Soft silicone o-ring, 1/8" fractional width, 70 Duro hardness| 10.18            | 1        | O-Ring Store [B70260](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=367_23_25&products_id=1275)      |
 | Unified daughterboard, 4-pin JST cable, four M2 x4 mm screws | 8.00             | 1        | Cannon Keys [UNIFIED-DB](https://cannonkeys.com/products/unified-daughterboard-and-jst-cable) ** |
 | M2 x4 mm brass hex drive flat head screw                     | 7.33 / n         | 2        | McMaster [97595A266](https://www.mcmaster.com/97595A266/)    |
 | Wide furniture bumpers                                       | 6.98 / 4         | 4        | ASIN [B0856T8HJF](https://www.amazon.com/gp/product/B0856T8HJF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
@@ -55,7 +55,7 @@ We now install the switches and switch plate, just like a normal keyboard build.
 
 ![](./assets/first-push.jpg)
 
-Use a flathead screwdriver to push down the o-ring and the PCB assembly, all around the assembly's edges. Eventually, the o-ring should be reasonably hidden (but admittedly, not completely, depending on your view angle). 
+Use a flathead screwdriver to push down the o-ring and the PCB assembly, all around the assembly's edges. Eventually, the o-ring should be reasonably hidden (but admittedly, not completely, depending on your view angle). The o-ring I've since opted for using is black (from the O-Ring Store) rather than black (from McMaster-Carr). 
 
 ![](./assets/push-o-ring.jpg)
 
